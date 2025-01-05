@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
+
+/* Add this CSS to your global styles or a specific CSS file */
+.ql-picker-item::before {
+  content: "Título";
+}
+
+.ql-picker-item[data-value="1"]::before {
+  content: "Título 1";
+}
+
+.ql-picker.ql-header .ql-picker-item[data-value="2"]::before {
+  content: "Título 2";
+}
+
+.ql-picker.ql-header .ql-picker-item.ql-active::before,
+.ql-picker.ql-header .ql-picker-item[data-value="false"]::before {
+  content: "Parágrafo";
+}
+
+.ql-editor h1 {
+  font-size: 2em;
+}
+
+.ql-editor h2 {
+  font-size: 1.5em;
+}

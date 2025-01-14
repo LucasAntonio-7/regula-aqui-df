@@ -21,8 +21,8 @@ export default async function Home() {
                 Regula Aqui
               </h1>
               <p className="text-gray-500">
-                Plataforma para auxilio de encaminhamentos a
-                especialistas/servicos em saude
+                Plataforma para auxílio de encaminhamentos à
+                especialistas/serviços em saúde
               </p>
             </div>
           </CardHeader>
@@ -38,39 +38,39 @@ export default async function Home() {
                 <AccordionContent>
                   <div className="flex flex-col gap-y-2">
                     <p>
-                      Sepramos aqui, conforme notas tecnicas da secretadia de
-                      saude do distrito federal, os grupos de CID&apos;s sob os
+                      Separamos aqui, conforme notas tecnicas da secretaria de
+                      saúde do distrito federal, os grupos de CID&apos;s sob os
                       quais os encaminhamentos devem se orientar, mantendo bem
-                      registrados os itens obrigatorios, de forma clara, direta
-                      e de rapida interpretaçao.
+                      registrados os itens obrigatórios, de forma clara, direta
+                      e de rápida interpretação.
                     </p>
                     <p>
-                      Lembre-se que este campo serve a principio para delinear
-                      um texto base onde a patolo- gia principal mais se encaixe
-                      em um desses grupos, ja que eles sao apenas um guia das
-                      informaçoes mais necessarias de acordo com a definiçao
-                      daquele grupo de medicos regu- ladores, que nao vendo nem
-                      o paciente e nao tendo contato com o especialista,
-                      precisam entender bem o caso de forma a definir seu
-                      posicionamento na fila, e coordenar, portando, todo acesso
-                      a saude secundaria e demais niveis superiores de saude.{" "}
+                      Lembre-se que este campo serve a princípio para delinear
+                      um texto base onde a patologia principal mais se encaixa
+                      em um desses grupos, já que eles são apenas um guia das
+                      informações mais necessárias de acordo com a definição
+                      daquele grupo de médicos reguladores, que não vendo nem o
+                      paciente e não tendo contato com o especialista, precisam
+                      entender bem o caso de forma a definir seu posicionamento
+                      na fila, e coordenar, portando, todo acesso a saúde
+                      secundária e demais níveis superiores de saúde.{" "}
                     </p>
                     <p>
-                      Basta clicar na grupo diagnostico que mais se enquadre
-                      como &quot;diagnostico principal&quot; ou &quot;condiçao
-                      de saude&quot; principal que justifique a solicitaçao de
+                      Basta clicar no grupo de diagnóstico que mais se enquadre
+                      como &quot;diagnóstico principal&quot; ou &quot;condição
+                      de saúde&quot; principal que justifique a solicitação de
                       atendimento individual fora das capacidades do seu serviço
                       de garantir.{" "}
                     </p>
                     <p>
                       A principio o site como um todo e desenhado para correto
-                      encaminhamento de paciente via SISRG, sistema de regulaçao
-                      nacional com subdivisoes estaduais de gestao de vagas dos
-                      serviçoes de saude disponiveis as regioes nas quais os
-                      profissionais estao inseridos. Portan- to trata-se de um
-                      modelo bem estruturado como guia, que portando pode e deve
-                      ser usado sempre que ário para uma boa estruturaçao de um
-                      texto de referencia e contrareferencia en- tre
+                      encaminhamento de paciente via SISRG, sistema de regulação
+                      nacional com subdivisões estaduais de gestao de vagas dos
+                      serviços de saúde disponíveis as regiões nas quais os
+                      profissionais estão inseridos. Portanto trata-se de um
+                      modelo bem estruturado como guia, que portanto pode e deve
+                      ser usado sempre que necessário para uma boa estruturação
+                      de um texto de referência e contrareferência entre
                       profissionais.
                     </p>
                     <p>
